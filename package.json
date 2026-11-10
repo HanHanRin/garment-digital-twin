@@ -1,0 +1,30 @@
+{
+  "name": "garment-digital-twin",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 3000 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 3000 --strictPort",
+    "test": "node --test tests/replay.test.js"
+  },
+  "dependencies": {
+    "three": "^0.181.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.0"
+  },
+  "description": "服装行业 数字孪生｜织境 Fabric Twin：服装制造车间 3D 交互与 mock 故障回放演示",
+  "homepage": "https://hanhanrin.github.io/garment-digital-twin/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HanHanRin/garment-digital-twin.git"
+  },
+  "keywords": [
+    "digital-twin",
+    "garment-manufacturing",
+    "threejs",
+    "3d-visualization"
+  ]
+}
