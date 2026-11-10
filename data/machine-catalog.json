@@ -1,0 +1,130 @@
+[
+  {
+    "catalog_id": "lockstitch",
+    "category_name": "平缝工作站",
+    "brand": "JUKI",
+    "model_reference": "DDL-9000C",
+    "reference_kind": "manufacturer_catalog",
+    "source_url": "https://juki.com/ddl-9000c-series",
+    "source_checked_on": "2026-11-10",
+    "proxy_size_m": [
+      1.4,
+      1.45,
+      1.0
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  },
+  {
+    "catalog_id": "overlock",
+    "category_name": "包缝工作站",
+    "brand": "JUKI",
+    "model_reference": "MO-6814S / MO-6800S Series",
+    "reference_kind": "manufacturer_catalog",
+    "source_url": "https://juki.com/pub/media/wysiwyg/products/MO6800SSeries_catalog.pdf",
+    "source_checked_on": "2026-11-10",
+    "proxy_size_m": [
+      1.3,
+      1.4,
+      0.9
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  },
+  {
+    "catalog_id": "coverstitch",
+    "category_name": "绷缝工作站",
+    "brand": "JUKI",
+    "model_reference": "MF-7900/7900D Series",
+    "reference_kind": "manufacturer_catalog",
+    "source_url": "https://www.juki.co.jp/industrial_e/products_e/alldocument.php",
+    "source_checked_on": "2026-11-10",
+    "proxy_size_m": [
+      1.4,
+      1.5,
+      1.0
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  },
+  {
+    "catalog_id": "cutting",
+    "category_name": "通用裁剪台",
+    "brand": null,
+    "model_reference": "MOCK-CUT-01",
+    "reference_kind": "synthetic",
+    "source_url": null,
+    "source_checked_on": null,
+    "proxy_size_m": [
+      8.0,
+      1.0,
+      2.2
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  },
+  {
+    "catalog_id": "pressing",
+    "category_name": "通用熨烫工位",
+    "brand": null,
+    "model_reference": "MOCK-PRESS-01",
+    "reference_kind": "synthetic",
+    "source_url": null,
+    "source_checked_on": null,
+    "proxy_size_m": [
+      2.0,
+      1.4,
+      1.2
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  },
+  {
+    "catalog_id": "inspection",
+    "category_name": "通用检验台",
+    "brand": null,
+    "model_reference": "MOCK-QC-01",
+    "reference_kind": "synthetic",
+    "source_url": null,
+    "source_checked_on": null,
+    "proxy_size_m": [
+      2.0,
+      1.0,
+      1.2
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  },
+  {
+    "catalog_id": "packing",
+    "category_name": "通用包装台",
+    "brand": null,
+    "model_reference": "MOCK-PACK-01",
+    "reference_kind": "synthetic",
+    "source_url": null,
+    "source_checked_on": null,
+    "proxy_size_m": [
+      3.0,
+      1.1,
+      1.5
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  },
+  {
+    "catalog_id": "rack",
+    "category_name": "通用原料货架",
+    "brand": null,
+    "model_reference": "MOCK-RACK-01",
+    "reference_kind": "synthetic",
+    "source_url": null,
+    "source_checked_on": null,
+    "proxy_size_m": [
+      1.8,
+      2.2,
+      0.7
+    ],
+    "geometry_basis": "synthetic_workstation_proxy",
+    "geometry_note": "尺寸与形状为整套工作站简模假设，不是厂商机头/CAD尺寸。"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "event_id": "EVENT-1-raised",
+    "asset_id": "SEW-A-04",
+    "sim_time_s": 180,
+    "timestamp": "2026-11-10T09:03:00+08:00",
+    "phase": "raised",
+    "type": "fault",
+    "code": "THREAD_BREAK",
+    "message": "断线故障",
+    "is_mock": true
+  },
+  {
+    "event_id": "EVENT-1-cleared",
+    "asset_id": "SEW-A-04",
+    "sim_time_s": 240,
+    "timestamp": "2026-11-10T09:04:00+08:00",
+    "phase": "cleared",
+    "type": "fault",
+    "code": "THREAD_BREAK",
+    "message": "断线故障",
+    "is_mock": true
+  },
+  {
+    "event_id": "EVENT-2-raised",
+    "asset_id": "SEW-B-05",
+    "sim_time_s": 300,
+    "timestamp": "2026-11-10T09:05:00+08:00",
+    "phase": "raised",
+    "type": "offline",
+    "code": "DATA_LOSS",
+    "message": "数据连接中断",
+    "is_mock": true
+  },
+  {
+    "event_id": "EVENT-2-cleared",
+    "asset_id": "SEW-B-05",
+    "sim_time_s": 330,
+    "timestamp": "2026-11-10T09:05:30+08:00",
+    "phase": "cleared",
+    "type": "offline",
+    "code": "DATA_LOSS",
+    "message": "数据连接中断",
+    "is_mock": true
+  },
+  {
+    "event_id": "EVENT-3-raised",
+    "asset_id": "PRESS-01",
+    "sim_time_s": 420,
+    "timestamp": "2026-11-10T09:07:00+08:00",
+    "phase": "raised",
+    "type": "fault",
+    "code": "HEATER_WARNING",
+    "message": "加热异常示意",
+    "is_mock": true
+  },
+  {
+    "event_id": "EVENT-3-cleared",
+    "asset_id": "PRESS-01",
+    "sim_time_s": 480,
+    "timestamp": "2026-11-10T09:08:00+08:00",
+    "phase": "cleared",
+    "type": "fault",
+    "code": "HEATER_WARNING",
+    "message": "加热异常示意",
+    "is_mock": true
+  }
+]

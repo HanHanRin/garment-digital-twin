@@ -1,0 +1,78 @@
+[
+  {
+    "route_id": "ROUTE-A",
+    "line_id": "A",
+    "is_mock": true,
+    "note": "针织上衣教学简化路线，不含全部真实工序；工时为假设。",
+    "steps": [
+      {
+        "step": 1,
+        "asset_id": "SEW-A-04",
+        "operation": "肩部包缝"
+      },
+      {
+        "step": 2,
+        "asset_id": "SEW-A-05",
+        "operation": "袖部与侧缝示意"
+      },
+      {
+        "step": 3,
+        "asset_id": "SEW-A-06",
+        "operation": "下摆绷缝"
+      },
+      {
+        "step": 4,
+        "asset_id": "SEW-A-01",
+        "operation": "标识缝制"
+      },
+      {
+        "step": 5,
+        "asset_id": "SEW-A-02",
+        "operation": "局部加固示意"
+      },
+      {
+        "step": 6,
+        "asset_id": "SEW-A-03",
+        "operation": "线内整理示意"
+      }
+    ]
+  },
+  {
+    "route_id": "ROUTE-B",
+    "line_id": "B",
+    "is_mock": true,
+    "note": "针织上衣教学简化路线，不含全部真实工序；工时为假设。",
+    "steps": [
+      {
+        "step": 1,
+        "asset_id": "SEW-B-04",
+        "operation": "肩部包缝"
+      },
+      {
+        "step": 2,
+        "asset_id": "SEW-B-05",
+        "operation": "袖部与侧缝示意"
+      },
+      {
+        "step": 3,
+        "asset_id": "SEW-B-06",
+        "operation": "下摆绷缝"
+      },
+      {
+        "step": 4,
+        "asset_id": "SEW-B-01",
+        "operation": "标识缝制"
+      },
+      {
+        "step": 5,
+        "asset_id": "SEW-B-02",
+        "operation": "局部加固示意"
+      },
+      {
+        "step": 6,
+        "asset_id": "SEW-B-03",
+        "operation": "线内整理示意"
+      }
+    ]
+  }
+]

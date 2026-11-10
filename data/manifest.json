@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "title": "服装车间 3D 视图 Mock 输入包",
+  "is_mock": true,
+  "seed": 42,
+  "units": "m",
+  "up_axis": "Y",
+  "floor_axes": [
+    "X",
+    "Z"
+  ],
+  "start_time": "2026-11-10T09:00:00+08:00",
+  "duration_s": 600,
+  "sample_interval_s": 5,
+  "asset_count": 22,
+  "telemetry_rows": 2662,
+  "files": [
+    "manifest.json",
+    "factory-layout.json",
+    "machine-catalog.json",
+    "assets.csv",
+    "orders.json",
+    "process-routes.json",
+    "telemetry.jsonl",
+    "events.json",
+    "floorplan.svg"
+  ],
+  "provenance": {
+    "layout": "synthetic",
+    "geometry_dimensions": "synthetic",
+    "telemetry": "synthetic",
+    "orders_and_cycle_times": "synthetic",
+    "machine_model_names": "public manufacturer references; see machine-catalog.json"
+  },
+  "limits": [
+    "No physical factory represented.",
+    "No manufacturer CAD or photos bundled.",
+    "Independent station counters are not finished-garment production.",
+    "No upstream/downstream simulation or validated engineering predictions."
+  ]
+}

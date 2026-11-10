@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "MOCK-ORDER-A",
+    "route_id": "ROUTE-A",
+    "product": "针织休闲上衣示例",
+    "size_mix": {
+      "S": 100,
+      "M": 200,
+      "L": 200,
+      "XL": 100
+    },
+    "quantity": 600,
+    "due_date": "2026-11-12",
+    "is_mock": true,
+    "note": "虚构订单，不与独立工位完成计数关联。"
+  },
+  {
+    "order_id": "MOCK-ORDER-B",
+    "route_id": "ROUTE-B",
+    "product": "针织休闲上衣示例",
+    "size_mix": {
+      "S": 100,
+      "M": 200,
+      "L": 200,
+      "XL": 100
+    },
+    "quantity": 600,
+    "due_date": "2026-11-12",
+    "is_mock": true,
+    "note": "虚构订单，不与独立工位完成计数关联。"
+  }
+]
